@@ -7,7 +7,3 @@ Developed as a group project for the Knowledge Base Systems course.
 - Backward Chaining inference engine
 - 26 diagnostic rules across 6 categories
 - Built with Python & Streamlit
-
-
-- [اسمك]
-- [اسم زميلك]
