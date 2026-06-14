@@ -1,2 +1,13 @@
-# IT-Support-Expert-System
-A collaborative Knowledge Base System project built as a university group assignment. An AI-powered IT Support Expert System using backward chaining inference to diagnose common PC problems across network, performance, BSOD, software, storage, and printer issues.
+# IT Support Expert System 🖥️
+
+A rule-based Expert System for diagnosing common IT problems.
+Developed as a group project for the Knowledge Base Systems course.
+
+## Features
+- Backward Chaining inference engine
+- 26 diagnostic rules across 6 categories
+- Built with Python & Streamlit
+
+
+- [اسمك]
+- [اسم زميلك]
